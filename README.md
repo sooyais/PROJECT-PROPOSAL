@@ -1,6 +1,6 @@
 # PROJECT-PROPOSAL
 SAIYIDAH NAFISAH BINTI MOHAMAD KAMAL
-## TITLE- PRESCHOOLPULSE :MOBILE APPLICATION FOR TADIKA MANAGEMENT USING CLOUD SERVICE
+## TITLE- PRESCHOOLPULSE :MOBILE APPLICATION FOR TADIKA MANAGEMENT USING CLOUD BASED SERVICE
 
 ### PROBLEM STATEMENT:
 1. Current manual and fragmented system often result in inefficient miscommunication and lack of real time communication
@@ -10,7 +10,7 @@ SAIYIDAH NAFISAH BINTI MOHAMAD KAMAL
 ### OBJECTIVE:
 1. To design the preschool management system for ............ to make a systematic and centralized system managemant.
 2. To develop the mobile application preschool management system for ...............
-3. To evaluate the mobile application preschool management system for .............. using cloud based system.
+3. To evaluate the mobile application preschool management system for .............. using cloud based service.
 
 ### PROJECT SCOPE:
 Project scope will focusing on the system management for preschool institution. The target user for this project is student, parent and teacher.
